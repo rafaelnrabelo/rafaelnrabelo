@@ -4,4 +4,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-rafaelnrabelo@gmail.com-4444cc?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rafaelnrabelo@gmail.com)](mailto:rafaelnrabelo@gmail.com)
 
 Estudante de Sistemas de Informação - Ufla<br/>
-Linguagens: HTML, CSS, JS, C++, Java
+Linguagens: HTML, CSS, JS, TS, C++, Java
